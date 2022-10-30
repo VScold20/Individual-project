@@ -1,0 +1,13 @@
+{
+  "splash-setting": {
+    "displayRatio": 0,
+    "totalTime": 1,
+    "displayWatermark": false,
+    "clearColor": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0.40784313725490196
+    }
+  }
+}

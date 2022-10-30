@@ -1,0 +1,25 @@
+{
+    "datas":[
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么？",
+            "options":[
+                "是一个东西",
+                "雷锋和雷峰塔的关系"
+            ],
+            "answer":"雷锋和雷峰塔的关系"
+        },
+        {
+            "issue":"java和javascript的关系是什么22222？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },{
+            "type":"text",
+            "issue":"java和javascript的关系是什么22222？",
+            "answer":"没有关系"
+        }
+    ]
+}
