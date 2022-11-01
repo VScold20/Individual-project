@@ -1,17 +1,17 @@
 [
   {
     "__type__": "cc.AnimationClip",
-    "_name": "LotusLeaf",
+    "_name": "frog",
     "_objFlags": 0,
     "__editorExtras__": {
       "embeddedPlayerGroups": []
     },
     "_native": "",
-    "sample": 30,
+    "sample": 20,
     "speed": 1,
-    "wrapMode": 1,
+    "wrapMode": 22,
     "enableTrsBlending": false,
-    "_duration": 0.6666666666666666,
+    "_duration": 0.5,
     "_hash": 500763545,
     "_tracks": [
       {
@@ -62,8 +62,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      0.3333333333333333,
-      0.6666666666666666
+      0.5
     ],
     "_values": [
       {
@@ -87,20 +86,6 @@
         "leftTangent": 0,
         "leftTangentWeight": 1,
         "easingMethod": 0
-      },
-      {
-        "__type__": "cc.RealKeyframeValue",
-        "interpolationMode": 0,
-        "tangentWeightMode": 0,
-        "value": 1,
-        "rightTangent": 0,
-        "rightTangentWeight": 1,
-        "leftTangent": 0,
-        "leftTangentWeight": 1,
-        "easingMethod": 0,
-        "__editorExtras__": {
-          "tangentMode": 0
-        }
       }
     ],
     "preExtrapolation": 1,
@@ -116,8 +101,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      0.3333333333333333,
-      0.6666666666666666
+      0.5
     ],
     "_values": [
       {
@@ -135,26 +119,12 @@
         "__type__": "cc.RealKeyframeValue",
         "interpolationMode": 0,
         "tangentWeightMode": 0,
-        "value": 0.9,
+        "value": 0.9279999732971191,
         "rightTangent": 0,
         "rightTangentWeight": 1,
         "leftTangent": 0,
         "leftTangentWeight": 1,
         "easingMethod": 0
-      },
-      {
-        "__type__": "cc.RealKeyframeValue",
-        "interpolationMode": 0,
-        "tangentWeightMode": 0,
-        "value": 1,
-        "rightTangent": 0,
-        "rightTangentWeight": 1,
-        "leftTangent": 0,
-        "leftTangentWeight": 1,
-        "easingMethod": 0,
-        "__editorExtras__": {
-          "tangentMode": 0
-        }
       }
     ],
     "preExtrapolation": 1,
@@ -170,8 +140,7 @@
     "__type__": "cc.RealCurve",
     "_times": [
       0,
-      0.3333333333333333,
-      0.6666666666666666
+      0.5
     ],
     "_values": [
       {
@@ -195,20 +164,6 @@
         "leftTangent": 0,
         "leftTangentWeight": 1,
         "easingMethod": 0
-      },
-      {
-        "__type__": "cc.RealKeyframeValue",
-        "interpolationMode": 0,
-        "tangentWeightMode": 0,
-        "value": 1,
-        "rightTangent": 0,
-        "rightTangentWeight": 1,
-        "leftTangent": 0,
-        "leftTangentWeight": 1,
-        "easingMethod": 0,
-        "__editorExtras__": {
-          "tangentMode": 0
-        }
       }
     ],
     "preExtrapolation": 1,

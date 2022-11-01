@@ -10,6 +10,7 @@
             "answer":"雷锋和雷峰塔的关系"
         },
         {
+            "type":"select",
             "issue":"java和javascript的关系是什么22222？",
             "options":[
                 "是一个东西22222",
@@ -18,8 +19,89 @@
             "answer":"雷锋和雷峰塔的关系22222"
         },{
             "type":"text",
-            "issue":"java和javascript的关系是什么22222？",
+            "issue":"java和javascript的关系是什么3333？java和javascript的关系是什么3333？java和javascript的关系是什么3333？java和javascript的关系是什么3333？",
             "answer":"没有关系"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
+        },
+        {
+            "type":"select",
+            "issue":"java和javascript的关系是什么2444442？",
+            "options":[
+                "是一个东西22222",
+                "雷锋和雷峰塔的关系22222"
+            ],
+            "answer":"雷锋和雷峰塔的关系22222"
         }
     ]
 }
