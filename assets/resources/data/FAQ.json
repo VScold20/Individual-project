@@ -1,107 +1,105 @@
 {
     "datas":[
+
         {
+            "index":"5",
             "type":"select",
-            "issue":"java和javascript的关系是什么？",
+            "issue":"A 7-year-old Birman cat with 2-day history of lethargy and tachypnoea presents with these auscultation findings. What abnormalities are present?",
             "options":[
-                "是一个东西",
-                "雷锋和雷峰塔的关系"
+                "Grade III systolic murmur",
+                "Sinus rhythm with prematures",
+                "Tachycardic, atrial fibrillation",
+                "Respiratory sinus arrhythmia"
             ],
-            "answer":"雷锋和雷峰塔的关系"
-        },
-        {
-            "type":"select",
-            "issue":"java和javascript的关系是什么22222？",
-            "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
-            ],
-            "answer":"雷锋和雷峰塔的关系22222"
+            "answer":"Tachycardic, atrial fibrillation"
         },{
-            "type":"text",
-            "issue":"java和javascript的关系是什么3333？java和javascript的关系是什么3333？java和javascript的关系是什么3333？java和javascript的关系是什么3333？",
-            "answer":"没有关系"
-        },
-        {
+            "index":"6",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"A 9-year-old Chihuahua presents for routine health check with this newly detected heart murmur at the left apex. No palpable thrill is detectable and physical examination is otherwise normal. What is your most likely differential diagnosis?",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Mitral valve disease",
+                "Mitral endocarditis",
+                "Mitral stenosis",
+                "Mitral dysplasia"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
+            "answer":"Mitral valve disease"
+        },{
+            "index":"7",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"A 7-year-old Cocker spaniel presents for vaccination with this left apical heart murmur. Last year, a grade II murmur was detected but no notes defining the timing or localisation were made at the time. No palpable thrill is detectable and physical examination is otherwise normal. How would you grade this murmur?",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Grade II",
+                "Grade III",
+                "Grade IV",
+                "Grade V"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
+            "answer":"Grade IV"
+        },{
+            "index":"8",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"This heart murmur was detected in a male Rottweiller, aged 6-months, at pre-anaesthesia assessment for neutering. A palpable thrill was present at the left base but the murmur was not audible with the stethoscope 1cm off the chest wall. How would you describe the heart murmur?",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Grade IV, systolic",
+                "Grade V, systolic",
+                "Grade IV, diastolic",
+                "Grade VI, systolic"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
+            "answer":"Grade V, systolic"
+        },{
+            "index":"9",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"This auscultation was recorded in a 6-year-old Cavalier King Charles spaniel presented for two episodes of vomiting after dietary indiscretion. How would you describe the heart sounds at the left apex, and would you recommend further investigation?",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Grade III systolic murmur – echo",
+                "Grade II systolic murmur – X-ray",
+                "Normal heart sounds – monitor",
+                "Grade II systolic murmur – monitor"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
+            "answer":"Normal heart sounds – monitor"
+        },{
+            "index":"10",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"A dog with previously diagnosed stage B1 mitral valve disease presents for vaccination and heart sounds were recorded. What abnormalities are present?",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Quiet systolic heart murmur and sinus arrhythmia",
+                "Loud systolic heart murmur and premature beats",
+                "Loud systolic heart murmur and sinus arrhythmia",
+                "Quiet systolic murmur and sinus rhythm"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
+            "answer":"Loud systolic heart murmur and premature beats"
+        },{
+            "index":"11",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"Auscultation of the left sternal border at routine health-check detects these findings in a 5-year-old, female neutered domestic shorthair cat. What abnormality is present?",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Grade II systolic heart murmur",
+                "Grade IV systolic heart murmur",
+                "Intermittent gallop sound",
+                "Chaotic irregularity (such as AF)"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
+            "answer":"Grade II systolic heart murmur"
+        },{
+            "index":"12",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"A horse presents for pre-purchase examination and this is how the heart sounds. What is the abnormality detected? Consider its significance in this context.",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Second degree AV block",
+                "Grade II systolic murmur",
+                "Atrial fibrillation",
+                "Grade IV diastolic murmur"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
+            "answer":"Atrial fibrillation"
+        },{
+            "index":"13",
             "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
+            "issue":"A horse presents for routine vaccination and this murmur is audible on the left side. No precordial thrill is present. How would you describe this murmur?",
             "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
+                "Grade II, systolic",
+                "Grade III, systolic",
+                "Grade IV, diastolic",
+                "Grade V, diastolic"
             ],
-            "answer":"雷锋和雷峰塔的关系22222"
-        },
-        {
-            "type":"select",
-            "issue":"java和javascript的关系是什么2444442？",
-            "options":[
-                "是一个东西22222",
-                "雷锋和雷峰塔的关系22222"
-            ],
-            "answer":"雷锋和雷峰塔的关系22222"
+            "answer":"Grade IV, diastolic"
         }
     ]
 }
